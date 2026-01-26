@@ -3,11 +3,10 @@
 📍 New York City • 🎓 M.S. Computer Science @ Binghamton University (Expected May 2026)  
 💻 Machine Learning + Computer Vision • Applied NLP/LLMs • Systems + APIs
 
-[LinkedIn](https://www.linkedin.com/in/aishwaryamy) • [Email](mailto:amandyayogan@binghamton.edu) • [GitHub](https://github.com/aishwaryamy)
+[LinkedIn](https://www.linkedin.com/in/aishwaryamy) • [Email](mailto:amandyayogan@binghamton.edu) 
 
 ---
 
-## About me
 I’m a Machine Learning / Software Engineer who enjoys building end-to-end systems—taking data + models and turning them into reliable, scalable tools people can actually use. I’ve worked across **computer vision, applied NLP, and real-time systems**, from fine-tuning transformer models to building APIs and optimizing high-throughput video pipelines.
 
 Recently, I worked on **marine safety ML** (transformer fine-tuning + real-time routing insights) and **real-time satellite frame transmission** (FPGA/RTOS + encryption + reliability testing). I also have experience in **security automation** and producing **clear, repeatable documentation/runbooks**.
