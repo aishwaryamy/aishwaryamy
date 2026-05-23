@@ -43,8 +43,8 @@ LLM-driven GTM assistant automating account research, lead qualification, and pe
 
 ## 📄 Publications
 
-- *Language Identification from Trilingual Handwritten Documents using Discriminating Features* (2023)
-- *Concept Drift Detection Approach towards Imbalanced Data Stream* (2023)
+- [*Language Identification from Trilingual Handwritten Documents using Discriminating Features*](https://www.ijres.org/papers/Volume-11/Issue-6/1106207213.pdf) (2023)
+- [*Concept Drift Detection Approach towards Imbalanced Data Stream*](https://www.ijera.com/papers/vol13no10/1310126131.pdf) (2023)
 
 ---
 
