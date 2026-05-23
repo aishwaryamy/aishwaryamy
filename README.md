@@ -1,69 +1,53 @@
-# Hi, I'm Aishwarya Mandya Yogananda 👋
+# Hi, I'm Aishwarya 👋
 
-📍 New York City • 🎓 M.S. Computer Science @ Binghamton University (Expected May 2026)  
-💻 Machine Learning + Computer Vision • Applied NLP/LLMs • Systems + APIs
+📍 New York City &nbsp;|&nbsp; 🤖 Machine Learning Engineer &nbsp;|&nbsp; 🎓 M.S. Computer Science, Binghamton University
 
-[LinkedIn](https://www.linkedin.com/in/aishwaryamy) • [Email](mailto:amandyayogan@binghamton.edu) 
-
----
-
-I’m a Machine Learning / Software Engineer who enjoys building end-to-end systems—taking data + models and turning them into reliable, scalable tools people can actually use. I’ve worked across **computer vision, applied NLP, and real-time systems**, from fine-tuning transformer models to building APIs and optimizing high-throughput video pipelines.
-
-Recently, I worked on **marine safety ML** (transformer fine-tuning + real-time routing insights) and **real-time satellite frame transmission** (FPGA/RTOS + encryption + reliability testing). I also have experience in **security automation** and producing **clear, repeatable documentation/runbooks**.
+[LinkedIn](https://www.linkedin.com/in/aishwaryamy) &nbsp;•&nbsp; [Email](mailto:aishwaryamy20@gmail.com)
 
 ---
 
-## 🛠 Skills & Tools
-**Languages:** Python, C/C++, Java, SQL, R, Bash, HTML/CSS  
-**ML/CV/NLP:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV, spaCy, NLTK  
-**Data:** Pandas, NumPy, PySpark  
-**Engineering:** REST APIs, Docker, Git, Linux, JIRA/Confluence  
-**Cloud (exposure):** AWS, GCP, Azure
+I build production ML systems — from fine-tuning transformer models to deploying LLM-powered pipelines that actually ship. Currently working as an **MLE at Manifoldz**, where I contribute to tooling and QA/QC workflows for ML pipelines. Previously at **Ithaca Clean Energy**, where I cut ASR error rates by 43% and reduced inference latency by 30% on real-time marine routing systems.
+
+My focus is applied ML at the intersection of **LLMs, RAG, and backend engineering** — I care about building things that are reliable, fast, and useful beyond a notebook.
 
 ---
 
-## ⚡ Highlights
-- Fine-tuned transformer models on domain datasets to improve detection accuracy and alert reliability
-- Built an API-compliant data proxy + integrated LLM APIs into real-time geospatial insights
-- Optimized video transmission pipelines for higher throughput and lower latency
-- Automated vulnerability analysis workflows and created compliance-ready runbooks
+## 🔧 What I Work With
+
+**ML & AI:** PyTorch · TensorFlow · Hugging Face · Whisper · Scikit-learn · RAG · LangChain · LangGraph · OpenAI API · Claude API / Anthropic SDK  
+**Backend & APIs:** Python · FastAPI · Flask · Node.js · REST APIs · PostgreSQL · MongoDB · SQLite  
+**Infrastructure:** Docker · AWS (EC2, S3, IAM) · GCP · Git · CI/CD  
+**Languages:** Python · JavaScript · TypeScript · C/C++ · SQL · Java
 
 ---
 
 ## 🚀 Featured Projects
-Here are a few projects I’m proud of (more on my repos):
 
-- **Fake Reviews Detection (Opinion Mining)**  
-  Sentiment analysis + ML classifiers with evaluation focused on F1-score.
+### 🔍 [Audit Readiness AI](https://github.com/aishwaryamy/auditreadinessai)
+LLM-powered compliance assistant using RAG-based retrieval over SOC 2 documents. Reduced manual audit effort by 60%. Includes offline evaluation harness comparing TF-IDF, SentenceTransformers, and hybrid retrieval — with Precision@5, Recall@10, and MRR metrics.
+`Python` `RAG` `LangChain` `OpenAI API` `FastAPI` `Docker`
 
-- **Enterprise Data Validation & Management System**  
-  Automated data validation pipeline using Python + SQL to reduce inconsistencies and improve reporting.
+### 🤖 AI Incident Investigation Agent *(coming soon)*
+LangGraph-powered investigation pipeline with Redis caching for low-latency semantic retrieval. Supports 100+ queries/day with sub-200ms response, reducing MTTR by 40%.
+`LangGraph` `RAG` `FastAPI` `OpenAI API` `Redis`
 
-- **AI-Powered Facial Synthesis for Criminal Identification**  
-  CNN/GAN-based facial synthesis pipeline with OpenCV-based preprocessing.
+### 🎯 AI GTM Copilot *(coming soon)*
+LLM-driven GTM assistant automating lead qualification and personalized outreach at scale — 1K+ leads/day with 30% efficiency improvement.
+`Python` `OpenAI API` `SQLite` `Pandas` `Streamlit`
+
+### 🐟 [Fishing Mitigation MVP](https://github.com/aishwaryamy/fishing-mitigation-mvp)
+NLP-powered sentiment analysis dashboard built for Ithaca Clean Energy's WATERFRONT platform to track stakeholder feedback on offshore wind projects.
+`Python` `NLTK` `Plotly` `Dash`
 
 ---
 
-## 📚 Publications
-- *Language Identification from Trilingual Handwritten Documents using Discriminating Features* (2023)  
+## 📄 Publications
+
+- *Language Identification from Trilingual Handwritten Documents using Discriminating Features* (2023)
 - *Concept Drift Detection Approach towards Imbalanced Data Stream* (2023)
 
 ---
 
-## 🤝 Let’s connect
-I’m interested in roles and collaborations in **Data Science**, **Applied ML**, **Developer Tools/DevRel**, and **LLM-powered products**.
+## 📬 Let's connect
 
-<!--
-**aishwaryamy/aishwaryamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to **MLE, Applied ML, and AI Engineering** roles. If you're building something with LLMs, RAG, or production ML systems — I'd love to talk.
