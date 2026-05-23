@@ -6,7 +6,7 @@
 
 ---
 
-I build production ML systems — from fine-tuning transformer models to deploying LLM-powered pipelines that actually ship. Currently working as an **MLE at Manifoldz**, where I contribute to tooling and QA/QC workflows for ML pipelines. Previously at **Ithaca Clean Energy**, where I cut ASR error rates by 43% and reduced inference latency by 30% on real-time marine routing systems.
+I build production ML systems — from fine-tuning transformer models to deploying LLM-powered pipelines that actually ship. Currently working as an **MLE at Manifoldz**, contributing to ML tooling and QA/QC workflows. Previously at **Ithaca Clean Energy**, where I cut ASR error rates by 43% and reduced inference latency by 30% on real-time marine routing systems.
 
 My focus is applied ML at the intersection of **LLMs, RAG, and backend engineering** — I care about building things that are reliable, fast, and useful beyond a notebook.
 
@@ -23,21 +23,21 @@ My focus is applied ML at the intersection of **LLMs, RAG, and backend engineeri
 
 ## 🚀 Featured Projects
 
+### 🚨 [AI Incident Response Agent](https://github.com/aishwaryamy/AI-Incident-Response-Agent)
+Production-ready AI agent that helps engineering teams investigate incidents by analyzing logs and runbooks using LangGraph orchestration + RAG. Supports 100+ queries/day with sub-200ms response. Includes Prometheus/Grafana observability, JWT auth, Redis caching, Docker, and an automated evaluation framework.  
+`Python` `LangGraph` `RAG` `FastAPI` `PostgreSQL + pgvector` `Docker` `Prometheus`
+
 ### 🔍 [Audit Readiness AI](https://github.com/aishwaryamy/auditreadinessai)
-LLM-powered compliance assistant using RAG-based retrieval over SOC 2 documents. Reduced manual audit effort by 60%. Includes offline evaluation harness comparing TF-IDF, SentenceTransformers, and hybrid retrieval — with Precision@5, Recall@10, and MRR metrics.
+LLM-powered compliance assistant using RAG-based retrieval over SOC 2 documents. Reduced manual audit effort by 60%. Includes an offline evaluation harness benchmarking TF-IDF vs SentenceTransformers vs hybrid retrieval using Precision@5, Recall@10, and MRR metrics.  
 `Python` `RAG` `LangChain` `OpenAI API` `FastAPI` `Docker`
 
-### 🤖 AI Incident Investigation Agent *(coming soon)*
-LangGraph-powered investigation pipeline with Redis caching for low-latency semantic retrieval. Supports 100+ queries/day with sub-200ms response, reducing MTTR by 40%.
-`LangGraph` `RAG` `FastAPI` `OpenAI API` `Redis`
+### ⚖️ [Quantamind Legal AI Agent](https://github.com/aishwaryamy/quantamind-legal-ai-agent)
+Offline AI agent for legal contract analysis using Mistral 7B + FAISS + RAG, with no cloud uploads. Benchmarks two approaches — LoRA fine-tuning (92.5% accuracy) vs prompt engineering (85.3%) — on the CUAD dataset. Fully Dockerized with CPU/GPU inference modes and automated setup.  
+`Python` `Mistral 7B` `LoRA Fine-tuning` `FAISS` `RAG` `Hugging Face` `Docker`
 
-### 🎯 AI GTM Copilot *(coming soon)*
-LLM-driven GTM assistant automating lead qualification and personalized outreach at scale — 1K+ leads/day with 30% efficiency improvement.
-`Python` `OpenAI API` `SQLite` `Pandas` `Streamlit`
-
-### 🐟 [Fishing Mitigation MVP](https://github.com/aishwaryamy/fishing-mitigation-mvp)
-NLP-powered sentiment analysis dashboard built for Ithaca Clean Energy's WATERFRONT platform to track stakeholder feedback on offshore wind projects.
-`Python` `NLTK` `Plotly` `Dash`
+### 🎯 [AI GTM Copilot](https://github.com/aishwaryamy/ai-gtm-copilot)
+LLM-driven GTM assistant automating account research, lead qualification, and personalized outreach generation. Supports 1K+ leads/day with CRM-style SQLite storage and exportable datasets.  
+`Python` `OpenAI API` `Streamlit` `SQLite` `Pandas`
 
 ---
 
