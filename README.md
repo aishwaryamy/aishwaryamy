@@ -6,7 +6,7 @@
 
 ---
 
-I build production ML systems — from fine-tuning transformer models to deploying LLM-powered pipelines that actually ship. Currently working as an **MLE at Manifoldz**, contributing to ML tooling and QA/QC workflows. Previously at **Ithaca Clean Energy**, where I cut ASR error rates by 43% and reduced inference latency by 30% on real-time marine routing systems.
+I build production ML systems — from fine-tuning transformer models to deploying LLM-powered pipelines that actually ship. Currently working as an **MLE at Manifoldz**, contributing to ML tooling and QA/QC workflows. Previously at **Manifoldz**, where I cut ASR error rates by 43% and reduced inference latency by 30% on real-time marine routing systems.
 
 My focus is applied ML at the intersection of **LLMs, RAG, and backend engineering** — I care about building things that are reliable, fast, and useful beyond a notebook.
 
