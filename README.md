@@ -2,7 +2,7 @@
 
 📍 New York City &nbsp;|&nbsp; 🤖 Machine Learning Engineer &nbsp;|&nbsp; 🎓 M.S. Computer Science, Binghamton University
 
-[LinkedIn](https://www.linkedin.com/in/aishwaryamy) &nbsp;•&nbsp; [Email](mailto:aishwaryamy20@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aishwaryamy) &nbsp;•&nbsp; [Email](mailto:aishwaryamy20@gmail.com) &nbsp;•&nbsp; [Portfolio](https://aishwaryamy.github.io/)
 
 ---
 
