@@ -14,10 +14,13 @@ My focus is applied ML at the intersection of **LLMs, RAG, and backend engineeri
 
 ## 🔧 What I Work With
 
-**ML & AI:** PyTorch · TensorFlow · Hugging Face · Whisper · Scikit-learn · RAG · LangChain · LangGraph · OpenAI API · Claude API / Anthropic SDK  
-**Backend & APIs:** Python · FastAPI · Flask · Node.js · REST APIs · PostgreSQL · MongoDB · SQLite  
-**Infrastructure:** Docker · AWS (EC2, S3, IAM) · GCP · Git · CI/CD  
-**Languages:** Python · JavaScript · TypeScript · C/C++ · SQL · Java
+**Languages:** Python · JavaScript · TypeScript · C / C++ · Java · SQL · PHP · R
+**ML & AI:** PyTorch · TensorFlow · Hugging Face · Whisper · Scikit-learn · OpenCV · Keras · XGBoost · FAISS · LoRA · SentenceTransformers · NLP · NLTK
+**LLM & Agentic:** LangChain · LangGraph · OpenAI API · Claude API / Anthropic SDK · RAG · MCP · Prompt Engineering
+**Backend & APIs:** FastAPI · Flask · Node.js · Express.js · Laravel · REST APIs · GraphQL · SQLAlchemy · Celery · pgvector
+**Frontend:** React · Next.js · TypeScript · HTML · CSS
+**Data & Databases:** PostgreSQL · MongoDB · SQLite · Supabase · Redis · Snowflake · Pandas · NumPy · Spark · PySpark · Tableau · Power BI
+**Infrastructure:** Docker · Kubernetes · AWS (EC2, S3, IAM) · GCP · Vercel · Render · CI/CD · Git · Prometheus · Langfuse
 
 ---
 
