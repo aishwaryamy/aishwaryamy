@@ -9,7 +9,9 @@
 I’m curious about one thing right now: how much real-world impact can we get out of AI? Most of my repos are experiments in that direction, built to find where LLM systems break and how to make them reliable for actual users.
 
 **What I’m working on:** RAG systems, LangGraph agents, fine-tuning (Whisper, LoRA), and getting AI projects deployed.
+
 **Currently:** Machine Learning Software Engineer at Manifoldz.
+
 **Open to:** AI engineering, Applied ML and AI Software Engineering roles.
 
 ---
