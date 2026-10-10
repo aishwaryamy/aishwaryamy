@@ -6,9 +6,11 @@
 
 ---
 
-I build production ML systems — from fine-tuning transformer models to deploying LLM-powered pipelines that actually ship. Currently working as an **MLE at Manifoldz**, contributing to ML tooling and QA/QC workflows. Previously at **Manifoldz**, where I cut ASR error rates by 43% and reduced inference latency by 30% on real-time marine routing systems.
+I’m curious about one thing right now: how much real-world impact can we get out of AI? Most of my repos are experiments in that direction, built to find where LLM systems break and how to make them reliable for actual users.
 
-My focus is applied ML at the intersection of **LLMs, RAG, and backend engineering** — I care about building things that are reliable, fast, and useful beyond a notebook.
+**What I’m working on:** RAG systems, LangGraph agents, fine-tuning (Whisper, LoRA), and getting AI projects deployed.
+**Currently:** Machine Learning Software Engineer at Manifoldz.
+**Open to:** AI engineering, Applied ML and AI Software Engineering roles.
 
 ---
 
